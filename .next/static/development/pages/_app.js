@@ -1092,7 +1092,7 @@ module.exports = __webpack_require__(/*! regenerator-runtime */ "./node_modules/
 /*!************************************************!*\
   !*** ./node_modules/apollo-boost/lib/index.js ***!
   \************************************************/
-/*! exports provided: gql, InMemoryCache, HttpLink, default, printAST, ObservableQuery, NetworkStatus, ApolloError, ApolloClient, createOperation, makePromise, toPromise, fromPromise, fromError, Observable, defaultDataIdFromObject, FetchType, empty, from, split, concat, ApolloLink, execute, StoreReader, assertIdValue, WriteError, enhanceErrorWithDocument, StoreWriter, HeuristicFragmentMatcher, IntrospectionFragmentMatcher, ObjectCache, defaultNormalizedCacheFactory, RecordingCache, record */
+/*! exports provided: printAST, ObservableQuery, NetworkStatus, ApolloError, ApolloClient, gql, InMemoryCache, HttpLink, default, FetchType, createOperation, makePromise, toPromise, fromPromise, fromError, Observable, defaultDataIdFromObject, empty, from, split, concat, ApolloLink, execute, StoreReader, assertIdValue, WriteError, enhanceErrorWithDocument, StoreWriter, HeuristicFragmentMatcher, IntrospectionFragmentMatcher, ObjectCache, defaultNormalizedCacheFactory, RecordingCache, record */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";

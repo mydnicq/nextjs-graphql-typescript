@@ -123,6 +123,10 @@ var Header = function Header() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     style: linkStyle
   }, "Users")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/users/addUser"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    style: linkStyle
+  }, "Add User")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
     href: "/courses"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     style: linkStyle
@@ -23904,7 +23908,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 3:
+/***/ 4:
 /*!*******************************!*\
   !*** multi ./pages/index.tsx ***!
   \*******************************/
@@ -23929,5 +23933,5 @@ module.exports = dll_5d62d38be3592dca3a42;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[4,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=index.js.map
